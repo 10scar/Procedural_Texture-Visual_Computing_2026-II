@@ -1,0 +1,21 @@
+# Original download (its contents are in assets/models/)
+*.zip
+
+# Processing IDE leftovers
+sketch.properties
+*.pde
+
+# Tooling
+node_modules/
+
+# Personal AI agent settings (machine-specific permission rules)
+.claude/
+.cursor/
+.aider*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
